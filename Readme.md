@@ -16,7 +16,7 @@ for (int i = 0; i < 4; i++)
 Turtle.ShowTurtle();
 ```
 
-# ![example](docs/Screenshot.png)
+# ![example](https://raw.githubusercontent.com/HTL-Bulme/TurtleGraphics/master/docs/Screenshot.png)
 
 ## Provided Functionality
 
