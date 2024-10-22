@@ -3,10 +3,8 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
 		xmlns:cc="using:TurtleGraphics"
-        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        mc:Ignorable="d" d:DesignWidth="450" d:DesignHeight="450"
         x:Class="TurtleGraphics.MainWindow"
-        Title="Window1">
-	<cc:TurtleControl Name="turtle"
-                          Width="500"
-                          Height="500"></cc:TurtleControl>
+        Title="Turtle Graphics">
+	<cc:TurtleControl Name="turtle"></cc:TurtleControl>
 </Window>

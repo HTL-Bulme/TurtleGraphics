@@ -13,7 +13,6 @@ namespace TurtleGraphics
 
         public static void ShowTurtle()
         {
-            MainWindow.NextCommandIndex = 0;
             MainWindow.Commands = Commands;
 
             BuildAvaloniaApp()
@@ -79,7 +78,7 @@ namespace TurtleGraphics
         }
 
 
-        public static void setColor(string colorname)
+        public static void SetColor(string colorname)
         {
             CommandBase cmd = new SetColorCommand(colorname);
             AddCommand(cmd);

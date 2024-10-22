@@ -25,10 +25,10 @@ namespace TurtleGraphics.Commands
 
         private List<System.Drawing.PointF> FillPoints = null;
         private DrawingContext Context;
-        private float PixelPerUnit;
+        private double PixelPerUnit;
 
 
-        public TurtleState(DrawingContext ctx, float pixelPerUnit)
+        public TurtleState(DrawingContext ctx, double pixelPerUnit)
         {
             DirY = -1;
             Context = ctx;

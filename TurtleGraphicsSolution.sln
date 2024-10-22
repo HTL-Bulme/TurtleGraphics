@@ -5,7 +5,7 @@ VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TurtleGraphics", "TurtleGraphics.csproj", "{6906C7A9-A6D6-4275-B582-9973F442CAF8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurtleGraphics.Tests", "..\TurtleGraphics.Tests\TurtleGraphics.Tests.csproj", "{13A4CB14-FE90-47A7-91B1-65B8F860BF24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TurtleGraphics.Tests", "..\TurtleGraphics.Tests\TurtleGraphics.Tests.csproj", "{13A4CB14-FE90-47A7-91B1-65B8F860BF24}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
