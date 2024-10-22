@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace TurtleGraphics.Commands
 {
-    public class DotCommand : CommandBase
+    internal class DotCommand : CommandBase
     {
         public double Diameter { get; protected set; }
         public DotCommand(double diameter) : base("dot")

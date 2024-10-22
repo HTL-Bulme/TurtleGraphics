@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace TurtleGraphics.Commands
 {
-    public class ForwardCommand : CommandBase
+    internal class ForwardCommand : CommandBase
     {
         public double Distance { get; protected set; }
         public ForwardCommand(double distance) : base("fd")

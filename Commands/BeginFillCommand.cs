@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace TurtleGraphics.Commands
 {
-    public class BeginFillCommand : CommandBase
+    internal class BeginFillCommand : CommandBase
     {
 
         public BeginFillCommand() : base("beginFill")

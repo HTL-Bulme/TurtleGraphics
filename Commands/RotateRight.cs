@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace TurtleGraphics.Commands
 {
-    public class RotateRight : CommandBase
+    internal class RotateRight : CommandBase
     {
         public double Angle { get; protected set; }
         

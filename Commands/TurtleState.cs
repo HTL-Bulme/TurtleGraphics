@@ -9,7 +9,7 @@ using Avalonia;
 
 namespace TurtleGraphics.Commands
 {
-    public class TurtleState
+    internal class TurtleState
     {
         public double X { get; private set; }
         public double Y { get; private set; }

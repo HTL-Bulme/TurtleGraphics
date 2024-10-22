@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace TurtleGraphics.Commands
 {
-    public class SetLineWidthCommand : CommandBase
+    internal class SetLineWidthCommand : CommandBase
     {
         public double LineWidth { get; protected set; }
         public SetLineWidthCommand(double lineWidth) : base("setLineWidth")

@@ -9,7 +9,7 @@ using Point = Avalonia.Point;
 
 namespace TurtleGraphics
 {
-    public partial class MainWindow : Window
+    internal partial class MainWindow : Window
     {
         internal static List<CommandBase> Commands;
 

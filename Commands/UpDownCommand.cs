@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace TurtleGraphics.Commands
 {
-    public class UpDownCommand : CommandBase
+    internal class UpDownCommand : CommandBase
     {
         public bool Up { get; protected set; }
         public UpDownCommand(bool up) : base("UpDown")

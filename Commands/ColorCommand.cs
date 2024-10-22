@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace TurtleGraphics.Commands
 {
-    public class SetColorCommand : CommandBase
+    internal class SetColorCommand : CommandBase
     {
         public Color LineColor { get; protected set; }
         public SetColorCommand(string color) : base("SetColor")
