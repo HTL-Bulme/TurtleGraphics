@@ -37,7 +37,7 @@ namespace TurtleGraphics.Commands
 
             LineColor = Color.FromRgb(0, 0, 0);
             LineWidth = 1;
-            CurrentPen = new Pen(Brushes.Black);
+            CurrentPen = new Pen(Brushes.Black, lineCap: PenLineCap.Round, lineJoin: PenLineJoin.Round);
             CurrentBrush = Brushes.Black;
             FillPoints = new List<System.Drawing.PointF>();
         }
@@ -45,12 +45,12 @@ namespace TurtleGraphics.Commands
         public void UpdateLineWidth(double lineWidth)
         {
             LineWidth = lineWidth;
-            CurrentPen = new Pen(LineColor.ToUInt32(), (float)lineWidth);
+            CurrentPen = new Pen(LineColor.ToUInt32(), (float)lineWidth, lineCap: PenLineCap.Round, lineJoin: PenLineJoin.Round);
         }
         public void UpdateLineColor(Color lineColor)
         {
             LineColor = lineColor;
-            CurrentPen = new Pen(lineColor.ToUInt32(), (float)LineWidth);
+            CurrentPen = new Pen(lineColor.ToUInt32(), (float)LineWidth, lineCap: PenLineCap.Round, lineJoin: PenLineJoin.Round);
             CurrentBrush = new SolidColorBrush(lineColor.ToUInt32());
         }
 

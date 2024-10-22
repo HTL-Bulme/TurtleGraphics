@@ -54,7 +54,7 @@ namespace TurtleGraphics
                     nextCommandIdx++;
                     if (nextCommandIdx < Commands.Count)
                     {
-                        Task.Delay(100).ContinueWith(
+                        Task.Delay(50).ContinueWith(
                             (t) =>
                                 Dispatcher.UIThread.Invoke(() =>
                                     InvalidateVisual()));
@@ -152,13 +152,15 @@ namespace TurtleGraphics
                     (state.X * pixelPerUnit - state.DirX * 7 + ortho_dir_x1 * 7) + center,
                     (state.Y * pixelPerUnit - state.DirY * 7 + ortho_dir_y1 * 7) + center),
                 3, 3);
+
             context.DrawEllipse(
                 Brushes.DarkGreen,
                 new Pen(Brushes.DarkGreen),
                 new Point(
-                    (state.X * pixelPerUnit * pixelPerUnit - state.DirX * 7 + ortho_dir_x2 * 7) + center,
+                    (state.X * pixelPerUnit - state.DirX * 7 + ortho_dir_x2 * 7) + center,
                     (state.Y * pixelPerUnit - state.DirY * 7 + ortho_dir_y2 * 7) + center),
                 3, 3);
+            
             //Turtle zeichnen
             context.DrawEllipse(
                 Brushes.Green,
