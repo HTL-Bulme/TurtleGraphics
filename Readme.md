@@ -5,7 +5,7 @@ that provides turtle graphics for the .Net Platform.
 
 ## Example
 
-```
+```csharp
 Turtle.SetPenWidth(5);
 Turtle.SetColor("blue");
 for (int i = 0; i < 4; i++)
