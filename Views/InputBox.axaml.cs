@@ -27,6 +27,8 @@ namespace TurtleGraphics.Views
             if ((DataContext as InputBoxViewModel).ResultValue == null)
             {
                 e.Cancel = true;
+                LblWarning.IsVisible = true;
+                LblWarning.Text = InputValidator.GetInvalidMessage();
             }
             base.OnClosing(e);
         }
