@@ -1,11 +1,25 @@
 ﻿using Avalonia;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Data.Common;
+using System.Threading;
+using System.Threading.Tasks;
 using TurtleGraphics.Commands;
+using TurtleGraphics.ViewModels;
+using TurtleGraphics.Views;
 
 namespace TurtleGraphics
 {
+    internal enum InputDataType
+    {
+        InputDataTypeString = 0,
+        InputDataTypeDouble = 1,
+        InputDataTypeFloat = 2,
+        InputDataTypeInt = 3,
+        InputDataTypeLong = 4
+    }
+
     public static class Turtle
     {
 
@@ -25,6 +39,22 @@ namespace TurtleGraphics
                 .UsePlatformDetect()
                 .LogToTrace();
         }
+
+        private static AppBuilder BuildInputBoxApp(InputDataType type, string userPrompt)
+        {
+            return AppBuilder.Configure<InputBoxApp>(
+                () =>
+                {
+                    var app = new InputBoxApp();
+                    app.DataType = type;
+                    app.UserPrompt = userPrompt;
+                    return app;
+                }
+                )
+                .UsePlatformDetect()
+                .LogToTrace();
+        }
+
 
 
         private static void AddCommand(CommandBase cmd)
@@ -101,26 +131,41 @@ namespace TurtleGraphics
             AddCommand(cmd);
         }
 
+        private static object ShowInputForm(InputDataType dataType, string message)
+        {
+            var builder = BuildInputBoxApp(dataType, message);
+            builder.StartWithClassicDesktopLifetime(null);
 
+            var app = builder.Instance as InputBoxApp;
+            var viewModel = app.ViewModel;
+            return viewModel.ResultValue;
+        }
 
         public static double InputDouble(string message)
         {
-            return 0;//new InputBox().InputDouble(message);
+            return (double)ShowInputForm(InputDataType.InputDataTypeDouble, message);
         }
+
+
 
         public static float InputFloat(string message)
         {
-            return 0;//return new InputBox().InputFloat(message);
+            return (float)ShowInputForm(InputDataType.InputDataTypeFloat, message);
         }
 
         public static int InputInt(string message)
         {
-            return 0;//return new InputBox().InputInt(message);
+            return (int)ShowInputForm(InputDataType.InputDataTypeInt, message);
+        }
+
+        public static long InputLong(string message)
+        {
+            return (long)ShowInputForm(InputDataType.InputDataTypeLong, message);
         }
 
         public static string InputString(string message)
         {
-            return "";//return new InputBox().InputString(message);
+            return (string)ShowInputForm(InputDataType.InputDataTypeString, message);
         }
 
         public static void Print(string value)

@@ -1,0 +1,18 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="400" d:DesignHeight="250"
+        x:Class="TurtleGraphics.Views.InputBox"
+        SizeToContent="WidthAndHeight"
+		Title=""
+		
+		>
+	<StackPanel Margin="20" Spacing="10">
+		<TextBlock Name="LblDescription">ABC</TextBlock >
+		<TextBlock IsVisible="False" Name="LblWarning" Foreground="White"
+				   Background="DarkRed">ABC</TextBlock >
+		<TextBox Name="TxtInput"></TextBox>
+		<Button Click="Button_Click" Padding="5" IsDefault="True" HorizontalAlignment="Right" HorizontalContentAlignment="Center" Width="100" Name="BtnOkay">OK</Button>
+	</StackPanel>
+</Window>

@@ -47,13 +47,23 @@ Call this Function to end to filling.
 ### Turtle.Print
 Prints the given number of text on the console.
 
-## TODO
 ### Turtle.InputDouble 
+Asks the user to input a double number.
+
 ### Turtle.InputFloat
+Asks the user to input a float number.
+
 ### Turtle.InputInt
+Asks the user to input a int number.
+
+### Turtle.InputLong
+Asks the user to input a long number.
+
 ### Turtle.InputString
+Asks the user to input a string value.
 
 ## Dependencies
 + .Net Standard 2.0
 + Avalonia
 + Avalonia.Desktop
++ Avalonia.Themes.Fluent

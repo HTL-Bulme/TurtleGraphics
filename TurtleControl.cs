@@ -109,8 +109,8 @@ namespace TurtleGraphics
             context.DrawLine(lightGrayPen, new Point(center - pixelPerUnit, center * .5f), new Point(center + pixelPerUnit, center * .5f));
             context.DrawLine(lightGrayPen, new Point(center - pixelPerUnit, center * 1.5f), new Point(center + pixelPerUnit, center * 1.5f));
 
-            context.DrawText(FormatText("(X-Achse)"), new Point(littleBit, center + littleBit));
-            context.DrawText(FormatText("(Y-Achse)"), new Point(center + littleBit, littleBit));
+            context.DrawText(FormatText("(X-Axis)"), new Point(littleBit, center + littleBit));
+            context.DrawText(FormatText("(Y-Axis)"), new Point(center + littleBit, littleBit));
         }
 
         private void DrawTurtle(DrawingContext context, TurtleState state)

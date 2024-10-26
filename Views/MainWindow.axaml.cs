@@ -7,7 +7,7 @@ using Brushes = Avalonia.Media.Brushes;
 using Pen = Avalonia.Media.Pen;
 using Point = Avalonia.Point;
 
-namespace TurtleGraphics
+namespace TurtleGraphics.Views
 {
     internal partial class MainWindow : Window
     {

@@ -4,7 +4,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
 		xmlns:cc="using:TurtleGraphics"
         mc:Ignorable="d" d:DesignWidth="450" d:DesignHeight="450"
-        x:Class="TurtleGraphics.MainWindow"
-        Title="Turtle Graphics">
+        x:Class="TurtleGraphics.Views.MainWindow"
+        Title="Turtle Graphics"
+		Background="White">
 	<cc:TurtleControl Name="turtle"></cc:TurtleControl>
 </Window>

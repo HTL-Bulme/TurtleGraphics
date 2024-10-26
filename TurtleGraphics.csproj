@@ -18,15 +18,22 @@
 		<PackageLicenseFile>LICENSE</PackageLicenseFile>
 		<PackageIcon>bulmeLogo_weiss.png</PackageIcon>
 	</PropertyGroup>
+
+	<ItemGroup>
+	  <None Remove="Resources\bulmeLogo_weiss.png" />
+	</ItemGroup>
   <ItemGroup>
     <PackageReference Include="Avalonia" Version="11.1.4" />
     <PackageReference Include="Avalonia.Desktop" Version="11.1.4" />
+    <PackageReference Include="Avalonia.Themes.Fluent" Version="11.1.4" />
   </ItemGroup>
   <ItemGroup>
-    <None Update="bulmeLogo_weiss.png">
+    <Page Include="Resources\bulmeLogo_weiss.png">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
-    </None>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
     <None Update="LICENSE">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
