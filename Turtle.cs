@@ -1,11 +1,15 @@
 ﻿using Avalonia;
+using Avalonia.Controls;
+using Avalonia.Threading;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Data.Common;
 using System.Threading;
 using System.Threading.Tasks;
+using Tmds.DBus.Protocol;
 using TurtleGraphics.Commands;
+using TurtleGraphics.Validators;
 using TurtleGraphics.ViewModels;
 using TurtleGraphics.Views;
 
@@ -24,13 +28,38 @@ namespace TurtleGraphics
     {
 
         private static List<CommandBase> Commands;
-
+        static AppBuilder appBuilder = null;
         public static void ShowTurtle()
         {
             MainWindow.Commands = Commands;
 
-            BuildAvaloniaApp()
-            .StartWithClassicDesktopLifetime(null);
+
+            if (appBuilder == null)
+            {
+                appBuilder = AppBuilder.Configure<App>()
+                    .UsePlatformDetect()
+                    .LogToTrace()
+                    .SetupWithoutStarting();
+            }
+
+            CancellationTokenSource cts = new CancellationTokenSource();
+
+
+            MainWindow window = new MainWindow();
+
+
+
+
+            window.Show();
+            window.Closed += (object sender, EventArgs e) =>
+            {
+                cts.Cancel();
+            };
+
+            Dispatcher.UIThread.MainLoop(cts.Token);
+
+
+
         }
 
         private static AppBuilder BuildAvaloniaApp()
@@ -40,20 +69,7 @@ namespace TurtleGraphics
                 .LogToTrace();
         }
 
-        private static AppBuilder BuildInputBoxApp(InputDataType type, string userPrompt)
-        {
-            return AppBuilder.Configure<InputBoxApp>(
-                () =>
-                {
-                    var app = new InputBoxApp();
-                    app.DataType = type;
-                    app.UserPrompt = userPrompt;
-                    return app;
-                }
-                )
-                .UsePlatformDetect()
-                .LogToTrace();
-        }
+
 
 
 
@@ -131,13 +147,41 @@ namespace TurtleGraphics
             AddCommand(cmd);
         }
 
+        
+      
+
+
         private static object ShowInputForm(InputDataType dataType, string message)
         {
-            var builder = BuildInputBoxApp(dataType, message);
-            builder.StartWithClassicDesktopLifetime(null);
 
-            var app = builder.Instance as InputBoxApp;
-            var viewModel = app.ViewModel;
+            if (appBuilder == null)
+            {
+                appBuilder = AppBuilder.Configure<App>()
+                    .UsePlatformDetect()
+                    .LogToTrace()
+                    .SetupWithoutStarting();
+            }
+
+            CancellationTokenSource cts = new CancellationTokenSource();
+
+            InputBoxViewModel viewModel = new InputBoxViewModel();
+            InputBox inputBox = new InputBox();
+            inputBox.DataContext = viewModel;
+
+            var validator = ValidatorFactory.GetValidator(dataType);
+            inputBox.TxtInput.Watermark = validator.GetPromptWatermark();
+            inputBox.LblDescription.Text = message;
+            inputBox.InputValidator = validator;
+
+
+            inputBox.Show();
+            inputBox.Closed += (object sender, EventArgs e) =>
+            {
+                cts.Cancel();
+            };
+
+            Dispatcher.UIThread.MainLoop(cts.Token);
+
             return viewModel.ResultValue;
         }
 

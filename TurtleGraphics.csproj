@@ -4,7 +4,7 @@
 		<TargetFramework>netstandard2.0</TargetFramework>
 		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 		<PackageId>TurtleGraphics</PackageId>
-		<Version>1.0.1</Version>
+		<Version>1.0.2</Version>
 		<Authors>HTL Bulme Graz Gösting</Authors>
 		<Description>Platform independent library that provides turtle graphics for .Net. Functionality is similar to the Python Turtle.</Description>
 		<Title>Turtle Graphics Library</Title>
