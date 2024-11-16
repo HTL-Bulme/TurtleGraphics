@@ -16,7 +16,7 @@
        height="10"
        x="10"
        y="10"
-       style="fill:#000000;stroke:#000000;stroke-width:0.9;stroke-dasharray:none"
+       style="fill:#000000;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
        id="rect2" />
     <text
        x="35.13253"
@@ -33,7 +33,7 @@
        height="10"
        x="10"
        y="22"
-       style="fill:#a9a9a9;stroke:#000000;stroke-width:0.9;stroke-dasharray:none"
+       style="fill:#a9a9a9;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
        id="rect6" />
     <text
        x="35.13253"
@@ -50,7 +50,7 @@
        height="10"
        x="10"
        y="34"
-       style="fill:#696969;stroke:#000000;stroke-width:0.9;stroke-dasharray:none"
+       style="fill:#696969;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
        id="rect10" />
     <text
        x="35.13253"
@@ -67,7 +67,7 @@
        height="10"
        x="10"
        y="46"
-       style="fill:#dcdcdc;stroke:#000000;stroke-width:0.9;stroke-dasharray:none"
+       style="fill:#dcdcdc;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
        id="rect14" />
     <text
        x="35.13253"
@@ -84,7 +84,7 @@
        height="10"
        x="10"
        y="58"
-       style="fill:#808080;stroke:#000000;stroke-width:0.9;stroke-dasharray:none"
+       style="fill:#808080;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
        id="rect18" />
     <text
        x="35.13253"
@@ -101,7 +101,7 @@
        height="10"
        x="10"
        y="70"
-       style="fill:#d3d3d3;stroke:#000000;stroke-width:0.9;stroke-dasharray:none"
+       style="fill:#d3d3d3;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
        id="rect22" />
     <text
        x="35.13253"
@@ -118,7 +118,7 @@
        height="10"
        x="10"
        y="82"
-       style="fill:#c0c0c0;stroke:#000000;stroke-width:0.9;stroke-dasharray:none"
+       style="fill:#c0c0c0;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
        id="rect26" />
     <text
        x="35.13253"
@@ -135,7 +135,7 @@
        height="10"
        x="10"
        y="94"
-       style="fill:#ffffff;stroke:#000000;stroke-width:0.9;stroke-dasharray:none"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
        id="rect30" />
     <text
        x="35.13253"
@@ -152,7 +152,7 @@
        height="10"
        x="10"
        y="106"
-       style="fill:#f5f5f5;stroke:#000000;stroke-width:0.9;stroke-dasharray:none"
+       style="fill:#f5f5f5;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
        id="rect34" />
     <text
        x="35.13253"
@@ -169,7 +169,7 @@
        height="10"
        x="10"
        y="118"
-       style="fill:#bc8f8f;stroke:#000000;stroke-width:0.9;stroke-dasharray:none"
+       style="fill:#bc8f8f;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
        id="rect38" />
     <text
        x="35.13253"
@@ -186,7 +186,7 @@
        height="10"
        x="10"
        y="130"
-       style="fill:#cd5c5c;stroke:#000000;stroke-width:0.9;stroke-dasharray:none"
+       style="fill:#cd5c5c;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
        id="rect42" />
     <text
        x="35.13253"
@@ -203,7 +203,7 @@
        height="10"
        x="10"
        y="142"
-       style="fill:#a52a2a;stroke:#000000;stroke-width:0.9;stroke-dasharray:none"
+       style="fill:#a52a2a;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
        id="rect46" />
     <text
        x="35.13253"
@@ -220,7 +220,7 @@
        height="10"
        x="10"
        y="154"
-       style="fill:#b22222;stroke:#000000;stroke-width:0.9;stroke-dasharray:none"
+       style="fill:#b22222;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
        id="rect50" />
     <text
        x="35.13253"
@@ -237,7 +237,7 @@
        height="10"
        x="10"
        y="166"
-       style="fill:#f08080;stroke:#000000;stroke-width:0.9;stroke-dasharray:none"
+       style="fill:#f08080;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
        id="rect54" />
     <text
        x="35.13253"
@@ -254,7 +254,7 @@
        height="10"
        x="10"
        y="178"
-       style="fill:#8b0000;stroke:#000000;stroke-width:0.9;stroke-dasharray:none"
+       style="fill:#8b0000;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
        id="rect58" />
     <text
        x="35.13253"
@@ -271,7 +271,7 @@
        height="10"
        x="10"
        y="190"
-       style="fill:#800000;stroke:#000000;stroke-width:0.9;stroke-dasharray:none"
+       style="fill:#800000;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
        id="rect62" />
     <text
        x="35.13253"
@@ -288,7 +288,7 @@
        height="10"
        x="10"
        y="202"
-       style="fill:#ff0000;stroke:#000000;stroke-width:0.9;stroke-dasharray:none"
+       style="fill:#ff0000;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
        id="rect66" />
     <text
        x="35.13253"
@@ -305,7 +305,7 @@
        height="10"
        x="10"
        y="214"
-       style="fill:#fffafa;stroke:#000000;stroke-width:0.9;stroke-dasharray:none"
+       style="fill:#fffafa;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
        id="rect70" />
     <text
        x="35.13253"
@@ -322,7 +322,7 @@
        height="10"
        x="10"
        y="226"
-       style="fill:#fa8072;stroke:#000000;stroke-width:0.9;stroke-dasharray:none"
+       style="fill:#fa8072;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
        id="rect74" />
     <text
        x="35.13253"
@@ -339,7 +339,7 @@
        height="10"
        x="10"
        y="238"
-       style="fill:#ffe4e1;stroke:#000000;stroke-width:0.9;stroke-dasharray:none"
+       style="fill:#ffe4e1;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
        id="rect78" />
     <text
        x="35.13253"
@@ -356,7 +356,7 @@
        height="10"
        x="10"
        y="250"
-       style="fill:#ff6347;stroke:#000000;stroke-width:0.9;stroke-dasharray:none"
+       style="fill:#ff6347;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
        id="rect82" />
     <text
        x="35.13253"
@@ -373,7 +373,7 @@
        height="10"
        x="10"
        y="262"
-       style="fill:#e9967a;stroke:#000000;stroke-width:0.9;stroke-dasharray:none"
+       style="fill:#e9967a;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
        id="rect86" />
     <text
        x="35.13253"
@@ -390,7 +390,7 @@
        height="10"
        x="10"
        y="274"
-       style="fill:#a0522d;stroke:#000000;stroke-width:0.9;stroke-dasharray:none"
+       style="fill:#a0522d;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
        id="rect90" />
     <text
        x="35.13253"
@@ -407,7 +407,7 @@
        height="10"
        x="10"
        y="286"
-       style="fill:#ff7f50;stroke:#000000;stroke-width:0.9;stroke-dasharray:none"
+       style="fill:#ff7f50;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
        id="rect94" />
     <text
        x="35.13253"
@@ -424,7 +424,7 @@
        height="10"
        x="10"
        y="298"
-       style="fill:#ff4500;stroke:#000000;stroke-width:0.9;stroke-dasharray:none"
+       style="fill:#ff4500;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
        id="rect98" />
     <text
        x="35.13253"
@@ -441,7 +441,7 @@
        height="10"
        x="10"
        y="310"
-       style="fill:#ffa07a;stroke:#000000;stroke-width:0.9;stroke-dasharray:none"
+       style="fill:#ffa07a;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
        id="rect102" />
     <text
        x="35.13253"
@@ -458,7 +458,7 @@
        height="10"
        x="10"
        y="322"
-       style="fill:#d2691e;stroke:#000000;stroke-width:0.9;stroke-dasharray:none"
+       style="fill:#d2691e;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
        id="rect106" />
     <text
        x="35.13253"
@@ -475,7 +475,7 @@
        height="10"
        x="10"
        y="334"
-       style="fill:#8b4513;stroke:#000000;stroke-width:0.9;stroke-dasharray:none"
+       style="fill:#8b4513;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
        id="rect110" />
     <text
        x="35.13253"
@@ -492,7 +492,7 @@
        height="10"
        x="10"
        y="346"
-       style="fill:#fff5ee;stroke:#000000;stroke-width:0.9;stroke-dasharray:none"
+       style="fill:#fff5ee;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
        id="rect114" />
     <text
        x="35.13253"
@@ -509,7 +509,7 @@
        height="10"
        x="10"
        y="358"
-       style="fill:#cd853f;stroke:#000000;stroke-width:0.9;stroke-dasharray:none"
+       style="fill:#cd853f;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
        id="rect118" />
     <text
        x="35.13253"
@@ -526,7 +526,7 @@
        height="10"
        x="10"
        y="370"
-       style="fill:#f4a460;stroke:#000000;stroke-width:0.9;stroke-dasharray:none"
+       style="fill:#f4a460;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
        id="rect122" />
     <text
        x="35.13253"
@@ -543,7 +543,7 @@
        height="10"
        x="10"
        y="382"
-       style="fill:#faf0e6;stroke:#000000;stroke-width:0.9;stroke-dasharray:none"
+       style="fill:#faf0e6;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
        id="rect126" />
     <text
        x="35.13253"
@@ -560,7 +560,7 @@
        height="10"
        x="10"
        y="394"
-       style="fill:#ffdab9;stroke:#000000;stroke-width:0.9;stroke-dasharray:none"
+       style="fill:#ffdab9;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
        id="rect130" />
     <text
        x="35.13253"
@@ -577,7 +577,7 @@
        height="10"
        x="10"
        y="406"
-       style="fill:#d2b48c;stroke:#000000;stroke-width:0.9;stroke-dasharray:none"
+       style="fill:#d2b48c;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
        id="rect134" />
     <text
        x="35.13253"
@@ -594,7 +594,7 @@
        height="10"
        x="10"
        y="418"
-       style="fill:#deb887;stroke:#000000;stroke-width:0.9;stroke-dasharray:none"
+       style="fill:#deb887;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
        id="rect138" />
     <text
        x="35.13253"
