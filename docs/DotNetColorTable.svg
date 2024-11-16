@@ -4,33 +4,10 @@
    height="560"
    version="1.1"
    id="svg562"
-   sodipodi:docname="colorTable.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs566" />
-  <sodipodi:namedview
-     id="namedview564"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     showgrid="false"
-     inkscape:zoom="1.1456789"
-     inkscape:cx="425.5119"
-     inkscape:cy="274.50973"
-     inkscape:window-width="1920"
-     inkscape:window-height="1026"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg562" />
   <g
      id="g6"
      transform="translate(32.235388,25.05316)">
@@ -45,7 +22,8 @@
        x="35.13253"
        y="19.437843"
        fill="#000000"
-       id="text4">Black</text>
+       id="text4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Black</text>
   </g>
   <g
      id="g10"
@@ -61,7 +39,8 @@
        x="35.13253"
        y="31.437843"
        fill="#000000"
-       id="text8">DarkGray</text>
+       id="text8"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">DarkGray</text>
   </g>
   <g
      id="g14"
@@ -77,7 +56,8 @@
        x="35.13253"
        y="43.437843"
        fill="#000000"
-       id="text12">DimGray</text>
+       id="text12"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">DimGray</text>
   </g>
   <g
      id="g18"
@@ -93,7 +73,8 @@
        x="35.13253"
        y="55.437843"
        fill="#000000"
-       id="text16">Gainsboro</text>
+       id="text16"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Gainsboro</text>
   </g>
   <g
      id="g22"
@@ -109,7 +90,8 @@
        x="35.13253"
        y="67.437843"
        fill="#000000"
-       id="text20">Gray</text>
+       id="text20"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Gray</text>
   </g>
   <g
      id="g26"
@@ -125,7 +107,8 @@
        x="35.13253"
        y="79.437843"
        fill="#000000"
-       id="text24">LightGray</text>
+       id="text24"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">LightGray</text>
   </g>
   <g
      id="g30"
@@ -141,7 +124,8 @@
        x="35.13253"
        y="91.437843"
        fill="#000000"
-       id="text28">Silver</text>
+       id="text28"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Silver</text>
   </g>
   <g
      id="g34"
@@ -157,7 +141,8 @@
        x="35.13253"
        y="103.43784"
        fill="#000000"
-       id="text32">White</text>
+       id="text32"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">White</text>
   </g>
   <g
      id="g38"
@@ -173,7 +158,8 @@
        x="35.13253"
        y="115.43784"
        fill="#000000"
-       id="text36">WhiteSmoke</text>
+       id="text36"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">WhiteSmoke</text>
   </g>
   <g
      id="g42"
@@ -189,7 +175,8 @@
        x="35.13253"
        y="127.43784"
        fill="#000000"
-       id="text40">RosyBrown</text>
+       id="text40"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">RosyBrown</text>
   </g>
   <g
      id="g46"
@@ -205,7 +192,8 @@
        x="35.13253"
        y="139.43785"
        fill="#000000"
-       id="text44">IndianRed</text>
+       id="text44"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">IndianRed</text>
   </g>
   <g
      id="g50"
@@ -221,7 +209,8 @@
        x="35.13253"
        y="151.43785"
        fill="#000000"
-       id="text48">Brown</text>
+       id="text48"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Brown</text>
   </g>
   <g
      id="g54"
@@ -237,7 +226,8 @@
        x="35.13253"
        y="163.43785"
        fill="#000000"
-       id="text52">Firebrick</text>
+       id="text52"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Firebrick</text>
   </g>
   <g
      id="g58"
@@ -253,7 +243,8 @@
        x="35.13253"
        y="175.43785"
        fill="#000000"
-       id="text56">LightCoral</text>
+       id="text56"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">LightCoral</text>
   </g>
   <g
      id="g62"
@@ -269,7 +260,8 @@
        x="35.13253"
        y="187.43785"
        fill="#000000"
-       id="text60">DarkRed</text>
+       id="text60"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">DarkRed</text>
   </g>
   <g
      id="g66"
@@ -285,7 +277,8 @@
        x="35.13253"
        y="199.43785"
        fill="#000000"
-       id="text64">Maroon</text>
+       id="text64"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Maroon</text>
   </g>
   <g
      id="g70"
@@ -301,7 +294,8 @@
        x="35.13253"
        y="211.43785"
        fill="#000000"
-       id="text68">Red</text>
+       id="text68"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Red</text>
   </g>
   <g
      id="g74"
@@ -317,7 +311,8 @@
        x="35.13253"
        y="223.43785"
        fill="#000000"
-       id="text72">Snow</text>
+       id="text72"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Snow</text>
   </g>
   <g
      id="g78"
@@ -333,7 +328,8 @@
        x="35.13253"
        y="235.43785"
        fill="#000000"
-       id="text76">Salmon</text>
+       id="text76"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Salmon</text>
   </g>
   <g
      id="g82"
@@ -349,7 +345,8 @@
        x="35.13253"
        y="247.43785"
        fill="#000000"
-       id="text80">MistyRose</text>
+       id="text80"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">MistyRose</text>
   </g>
   <g
      id="g86"
@@ -365,7 +362,8 @@
        x="35.13253"
        y="259.43784"
        fill="#000000"
-       id="text84">Tomato</text>
+       id="text84"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Tomato</text>
   </g>
   <g
      id="g90"
@@ -381,7 +379,8 @@
        x="35.13253"
        y="271.43784"
        fill="#000000"
-       id="text88">DarkSalmon</text>
+       id="text88"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">DarkSalmon</text>
   </g>
   <g
      id="g94"
@@ -397,7 +396,8 @@
        x="35.13253"
        y="283.43784"
        fill="#000000"
-       id="text92">Sienna</text>
+       id="text92"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Sienna</text>
   </g>
   <g
      id="g98"
@@ -413,7 +413,8 @@
        x="35.13253"
        y="295.43784"
        fill="#000000"
-       id="text96">Coral</text>
+       id="text96"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Coral</text>
   </g>
   <g
      id="g102"
@@ -429,7 +430,8 @@
        x="35.13253"
        y="307.43784"
        fill="#000000"
-       id="text100">OrangeRed</text>
+       id="text100"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">OrangeRed</text>
   </g>
   <g
      id="g106"
@@ -445,7 +447,8 @@
        x="35.13253"
        y="319.43784"
        fill="#000000"
-       id="text104">LightSalmon</text>
+       id="text104"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">LightSalmon</text>
   </g>
   <g
      id="g110"
@@ -461,7 +464,8 @@
        x="35.13253"
        y="331.43784"
        fill="#000000"
-       id="text108">Chocolate</text>
+       id="text108"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Chocolate</text>
   </g>
   <g
      id="g114"
@@ -477,7 +481,8 @@
        x="35.13253"
        y="343.43784"
        fill="#000000"
-       id="text112">SaddleBrown</text>
+       id="text112"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">SaddleBrown</text>
   </g>
   <g
      id="g118"
@@ -493,7 +498,8 @@
        x="35.13253"
        y="355.43784"
        fill="#000000"
-       id="text116">SeaShell</text>
+       id="text116"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">SeaShell</text>
   </g>
   <g
      id="g122"
@@ -509,7 +515,8 @@
        x="35.13253"
        y="367.43784"
        fill="#000000"
-       id="text120">Peru</text>
+       id="text120"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Peru</text>
   </g>
   <g
      id="g126"
@@ -525,7 +532,8 @@
        x="35.13253"
        y="379.43784"
        fill="#000000"
-       id="text124">SandyBrown</text>
+       id="text124"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">SandyBrown</text>
   </g>
   <g
      id="g130"
@@ -541,7 +549,8 @@
        x="35.13253"
        y="391.43784"
        fill="#000000"
-       id="text128">Linen</text>
+       id="text128"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Linen</text>
   </g>
   <g
      id="g134"
@@ -557,7 +566,8 @@
        x="35.13253"
        y="403.43784"
        fill="#000000"
-       id="text132">PeachPuff</text>
+       id="text132"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">PeachPuff</text>
   </g>
   <g
      id="g138"
@@ -573,7 +583,8 @@
        x="35.13253"
        y="415.43784"
        fill="#000000"
-       id="text136">Tan</text>
+       id="text136"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Tan</text>
   </g>
   <g
      id="g142"
@@ -589,7 +600,8 @@
        x="35.13253"
        y="427.43784"
        fill="#000000"
-       id="text140">BurlyWood</text>
+       id="text140"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">BurlyWood</text>
   </g>
   <g
      id="g146"
@@ -605,7 +617,8 @@
        x="35.13253"
        y="439.43784"
        fill="#000000"
-       id="text144">AntiqueWhite</text>
+       id="text144"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">AntiqueWhite</text>
   </g>
   <g
      id="g150"
@@ -621,7 +634,8 @@
        x="35.13253"
        y="451.43784"
        fill="#000000"
-       id="text148">Bisque</text>
+       id="text148"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Bisque</text>
   </g>
   <g
      id="g154"
@@ -637,7 +651,8 @@
        x="35.13253"
        y="463.43784"
        fill="#000000"
-       id="text152">DarkOrange</text>
+       id="text152"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">DarkOrange</text>
   </g>
   <g
      id="g158"
@@ -653,7 +668,8 @@
        x="35.13253"
        y="475.43784"
        fill="#000000"
-       id="text156">NavajoWhite</text>
+       id="text156"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">NavajoWhite</text>
   </g>
   <g
      id="g162"
@@ -669,7 +685,8 @@
        x="35.13253"
        y="487.43784"
        fill="#000000"
-       id="text160">BlanchedAlmond</text>
+       id="text160"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">BlanchedAlmond</text>
   </g>
   <g
      id="g166"
@@ -685,7 +702,8 @@
        x="35.13253"
        y="499.43784"
        fill="#000000"
-       id="text164">Wheat</text>
+       id="text164"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Wheat</text>
   </g>
   <g
      id="g170"
@@ -701,7 +719,8 @@
        x="35.13253"
        y="511.43784"
        fill="#000000"
-       id="text168">PapayaWhip</text>
+       id="text168"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">PapayaWhip</text>
   </g>
   <g
      id="g174"
@@ -717,7 +736,8 @@
        x="35.13253"
        y="523.43787"
        fill="#000000"
-       id="text172">OldLace</text>
+       id="text172"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">OldLace</text>
   </g>
   <g
      id="g178"
@@ -733,7 +753,8 @@
        x="35.13253"
        y="535.43787"
        fill="#000000"
-       id="text176">Moccasin</text>
+       id="text176"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Moccasin</text>
   </g>
   <g
      id="g182"
@@ -749,7 +770,8 @@
        x="35.13253"
        y="547.43787"
        fill="#000000"
-       id="text180">Orange</text>
+       id="text180"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Orange</text>
   </g>
   <g
      id="g186"
@@ -765,7 +787,8 @@
        x="35.13253"
        y="559.43787"
        fill="#000000"
-       id="text184">FloralWhite</text>
+       id="text184"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">FloralWhite</text>
   </g>
   <g
      id="g190"
@@ -781,7 +804,8 @@
        x="35.13253"
        y="571.43787"
        fill="#000000"
-       id="text188">Goldenrod</text>
+       id="text188"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Goldenrod</text>
   </g>
   <g
      id="g194"
@@ -797,7 +821,8 @@
        x="35.13253"
        y="583.43787"
        fill="#000000"
-       id="text192">DarkGoldenrod</text>
+       id="text192"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">DarkGoldenrod</text>
   </g>
   <g
      id="g198"
@@ -813,7 +838,8 @@
        x="35.13253"
        y="595.43787"
        fill="#000000"
-       id="text196">Cornsilk</text>
+       id="text196"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Cornsilk</text>
   </g>
   <g
      id="g202"
@@ -829,7 +855,8 @@
        x="35.13253"
        y="607.43787"
        fill="#000000"
-       id="text200">DarkKhaki</text>
+       id="text200"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">DarkKhaki</text>
   </g>
   <g
      id="g206"
@@ -845,7 +872,8 @@
        x="35.13253"
        y="619.43787"
        fill="#000000"
-       id="text204">Gold</text>
+       id="text204"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Gold</text>
   </g>
   <g
      id="g210"
@@ -861,7 +889,8 @@
        x="35.13253"
        y="631.43787"
        fill="#000000"
-       id="text208">PaleGoldenrod</text>
+       id="text208"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">PaleGoldenrod</text>
   </g>
   <g
      id="g214"
@@ -877,7 +906,8 @@
        x="35.13253"
        y="643.43787"
        fill="#000000"
-       id="text212">Khaki</text>
+       id="text212"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Khaki</text>
   </g>
   <g
      id="g218"
@@ -893,7 +923,8 @@
        x="35.13253"
        y="655.43787"
        fill="#000000"
-       id="text216">LemonChiffon</text>
+       id="text216"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">LemonChiffon</text>
   </g>
   <g
      id="g222"
@@ -909,7 +940,8 @@
        x="35.13253"
        y="667.43787"
        fill="#000000"
-       id="text220">Beige</text>
+       id="text220"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Beige</text>
   </g>
   <g
      id="g226"
@@ -925,7 +957,8 @@
        x="35.13253"
        y="679.43787"
        fill="#000000"
-       id="text224">LightGoldenrodYellow</text>
+       id="text224"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">LightGoldenrodYellow</text>
   </g>
   <g
      id="g230"
@@ -941,7 +974,8 @@
        x="35.13253"
        y="691.43787"
        fill="#000000"
-       id="text228">Ivory</text>
+       id="text228"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Ivory</text>
   </g>
   <g
      id="g234"
@@ -957,7 +991,8 @@
        x="35.13253"
        y="703.43787"
        fill="#000000"
-       id="text232">LightYellow</text>
+       id="text232"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">LightYellow</text>
   </g>
   <g
      id="g238"
@@ -973,7 +1008,8 @@
        x="35.13253"
        y="715.43787"
        fill="#000000"
-       id="text236">Olive</text>
+       id="text236"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Olive</text>
   </g>
   <g
      id="g242"
@@ -989,7 +1025,8 @@
        x="35.13253"
        y="727.43787"
        fill="#000000"
-       id="text240">Yellow</text>
+       id="text240"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Yellow</text>
   </g>
   <g
      id="g246"
@@ -1005,7 +1042,8 @@
        x="35.13253"
        y="739.43787"
        fill="#000000"
-       id="text244">OliveDrab</text>
+       id="text244"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">OliveDrab</text>
   </g>
   <g
      id="g250"
@@ -1021,7 +1059,8 @@
        x="35.13253"
        y="751.43787"
        fill="#000000"
-       id="text248">YellowGreen</text>
+       id="text248"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">YellowGreen</text>
   </g>
   <g
      id="g254"
@@ -1037,7 +1076,8 @@
        x="35.13253"
        y="763.43787"
        fill="#000000"
-       id="text252">DarkOliveGreen</text>
+       id="text252"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">DarkOliveGreen</text>
   </g>
   <g
      id="g258"
@@ -1053,7 +1093,8 @@
        x="35.13253"
        y="775.43787"
        fill="#000000"
-       id="text256">GreenYellow</text>
+       id="text256"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">GreenYellow</text>
   </g>
   <g
      id="g262"
@@ -1069,7 +1110,8 @@
        x="35.13253"
        y="787.43787"
        fill="#000000"
-       id="text260">Chartreuse</text>
+       id="text260"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Chartreuse</text>
   </g>
   <g
      id="g266"
@@ -1085,7 +1127,8 @@
        x="35.13253"
        y="799.43787"
        fill="#000000"
-       id="text264">LawnGreen</text>
+       id="text264"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">LawnGreen</text>
   </g>
   <g
      id="g270"
@@ -1101,7 +1144,8 @@
        x="35.13253"
        y="811.43787"
        fill="#000000"
-       id="text268">DarkSeaGreen</text>
+       id="text268"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">DarkSeaGreen</text>
   </g>
   <g
      id="g274"
@@ -1117,7 +1161,8 @@
        x="35.13253"
        y="823.43787"
        fill="#000000"
-       id="text272">ForestGreen</text>
+       id="text272"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">ForestGreen</text>
   </g>
   <g
      id="g278"
@@ -1133,7 +1178,8 @@
        x="35.13253"
        y="835.43787"
        fill="#000000"
-       id="text276">LimeGreen</text>
+       id="text276"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">LimeGreen</text>
   </g>
   <g
      id="g282"
@@ -1149,7 +1195,8 @@
        x="35.13253"
        y="847.43787"
        fill="#000000"
-       id="text280">LightGreen</text>
+       id="text280"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">LightGreen</text>
   </g>
   <g
      id="g286"
@@ -1165,7 +1212,8 @@
        x="35.13253"
        y="859.43787"
        fill="#000000"
-       id="text284">PaleGreen</text>
+       id="text284"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">PaleGreen</text>
   </g>
   <g
      id="g290"
@@ -1181,7 +1229,8 @@
        x="35.13253"
        y="871.43787"
        fill="#000000"
-       id="text288">DarkGreen</text>
+       id="text288"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">DarkGreen</text>
   </g>
   <g
      id="g294"
@@ -1197,7 +1246,8 @@
        x="35.13253"
        y="883.43787"
        fill="#000000"
-       id="text292">Green</text>
+       id="text292"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Green</text>
   </g>
   <g
      id="g298"
@@ -1213,7 +1263,8 @@
        x="35.13253"
        y="895.43787"
        fill="#000000"
-       id="text296">Honeydew</text>
+       id="text296"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Honeydew</text>
   </g>
   <g
      id="g302"
@@ -1229,7 +1280,8 @@
        x="35.13253"
        y="907.43787"
        fill="#000000"
-       id="text300">Lime</text>
+       id="text300"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Lime</text>
   </g>
   <g
      id="g306"
@@ -1245,7 +1297,8 @@
        x="35.13253"
        y="919.43787"
        fill="#000000"
-       id="text304">SeaGreen</text>
+       id="text304"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">SeaGreen</text>
   </g>
   <g
      id="g310"
@@ -1261,7 +1314,8 @@
        x="35.13253"
        y="931.43787"
        fill="#000000"
-       id="text308">MediumSeaGreen</text>
+       id="text308"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">MediumSeaGreen</text>
   </g>
   <g
      id="g314"
@@ -1277,7 +1331,8 @@
        x="35.13253"
        y="943.43787"
        fill="#000000"
-       id="text312">SpringGreen</text>
+       id="text312"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">SpringGreen</text>
   </g>
   <g
      id="g318"
@@ -1293,7 +1348,8 @@
        x="35.13253"
        y="955.43787"
        fill="#000000"
-       id="text316">MintCream</text>
+       id="text316"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">MintCream</text>
   </g>
   <g
      id="g322"
@@ -1309,7 +1365,8 @@
        x="35.13253"
        y="967.43787"
        fill="#000000"
-       id="text320">MediumAquamarine</text>
+       id="text320"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">MediumAquamarine</text>
   </g>
   <g
      id="g326"
@@ -1325,7 +1382,8 @@
        x="35.13253"
        y="979.43787"
        fill="#000000"
-       id="text324">MediumSpringGreen</text>
+       id="text324"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">MediumSpringGreen</text>
   </g>
   <g
      id="g330"
@@ -1341,7 +1399,8 @@
        x="35.13253"
        y="991.43787"
        fill="#000000"
-       id="text328">Aquamarine</text>
+       id="text328"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Aquamarine</text>
   </g>
   <g
      id="g334"
@@ -1357,7 +1416,8 @@
        x="35.13253"
        y="1003.4379"
        fill="#000000"
-       id="text332">Turquoise</text>
+       id="text332"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Turquoise</text>
   </g>
   <g
      id="g338"
@@ -1373,7 +1433,8 @@
        x="35.13253"
        y="1015.4379"
        fill="#000000"
-       id="text336">DarkSlateGray</text>
+       id="text336"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">DarkSlateGray</text>
   </g>
   <g
      id="g342"
@@ -1389,7 +1450,8 @@
        x="35.13253"
        y="1027.4379"
        fill="#000000"
-       id="text340">LightSeaGreen</text>
+       id="text340"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">LightSeaGreen</text>
   </g>
   <g
      id="g346"
@@ -1405,7 +1467,8 @@
        x="35.13253"
        y="1039.4379"
        fill="#000000"
-       id="text344">MediumTurquoise</text>
+       id="text344"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">MediumTurquoise</text>
   </g>
   <g
      id="g350"
@@ -1421,7 +1484,8 @@
        x="35.13253"
        y="1051.4379"
        fill="#000000"
-       id="text348">CadetBlue</text>
+       id="text348"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">CadetBlue</text>
   </g>
   <g
      id="g354"
@@ -1437,7 +1501,8 @@
        x="35.13253"
        y="1063.4379"
        fill="#000000"
-       id="text352">PaleTurquoise</text>
+       id="text352"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">PaleTurquoise</text>
   </g>
   <g
      id="g358"
@@ -1453,7 +1518,8 @@
        x="35.13253"
        y="1075.4379"
        fill="#000000"
-       id="text356">Aqua</text>
+       id="text356"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Aqua</text>
   </g>
   <g
      id="g362"
@@ -1469,7 +1535,8 @@
        x="35.13253"
        y="1087.4379"
        fill="#000000"
-       id="text360">Azure</text>
+       id="text360"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Azure</text>
   </g>
   <g
      id="g366"
@@ -1485,7 +1552,8 @@
        x="35.13253"
        y="1099.4379"
        fill="#000000"
-       id="text364">Cyan</text>
+       id="text364"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Cyan</text>
   </g>
   <g
      id="g370"
@@ -1501,7 +1569,8 @@
        x="35.13253"
        y="1111.4379"
        fill="#000000"
-       id="text368">DarkCyan</text>
+       id="text368"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">DarkCyan</text>
   </g>
   <g
      id="g374"
@@ -1517,7 +1586,8 @@
        x="35.13253"
        y="1123.4379"
        fill="#000000"
-       id="text372">LightCyan</text>
+       id="text372"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">LightCyan</text>
   </g>
   <g
      id="g378"
@@ -1533,7 +1603,8 @@
        x="35.13253"
        y="1135.4379"
        fill="#000000"
-       id="text376">Teal</text>
+       id="text376"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Teal</text>
   </g>
   <g
      id="g382"
@@ -1549,7 +1620,8 @@
        x="35.13253"
        y="1147.4379"
        fill="#000000"
-       id="text380">DarkTurquoise</text>
+       id="text380"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">DarkTurquoise</text>
   </g>
   <g
      id="g386"
@@ -1565,7 +1637,8 @@
        x="35.13253"
        y="1159.4379"
        fill="#000000"
-       id="text384">PowderBlue</text>
+       id="text384"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">PowderBlue</text>
   </g>
   <g
      id="g390"
@@ -1581,7 +1654,8 @@
        x="35.13253"
        y="1171.4379"
        fill="#000000"
-       id="text388">LightBlue</text>
+       id="text388"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">LightBlue</text>
   </g>
   <g
      id="g394"
@@ -1597,7 +1671,8 @@
        x="35.13253"
        y="1183.4379"
        fill="#000000"
-       id="text392">SkyBlue</text>
+       id="text392"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">SkyBlue</text>
   </g>
   <g
      id="g398"
@@ -1613,7 +1688,8 @@
        x="35.13253"
        y="1195.4379"
        fill="#000000"
-       id="text396">DeepSkyBlue</text>
+       id="text396"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">DeepSkyBlue</text>
   </g>
   <g
      id="g402"
@@ -1629,7 +1705,8 @@
        x="35.13253"
        y="1207.4379"
        fill="#000000"
-       id="text400">SlateGray</text>
+       id="text400"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">SlateGray</text>
   </g>
   <g
      id="g406"
@@ -1645,7 +1722,8 @@
        x="35.13253"
        y="1219.4379"
        fill="#000000"
-       id="text404">LightSlateGray</text>
+       id="text404"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">LightSlateGray</text>
   </g>
   <g
      id="g410"
@@ -1661,7 +1739,8 @@
        x="35.13253"
        y="1231.4379"
        fill="#000000"
-       id="text408">SteelBlue</text>
+       id="text408"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">SteelBlue</text>
   </g>
   <g
      id="g414"
@@ -1677,7 +1756,8 @@
        x="35.13253"
        y="1243.4379"
        fill="#000000"
-       id="text412">LightSkyBlue</text>
+       id="text412"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">LightSkyBlue</text>
   </g>
   <g
      id="g418"
@@ -1693,7 +1773,8 @@
        x="35.13253"
        y="1255.4379"
        fill="#000000"
-       id="text416">AliceBlue</text>
+       id="text416"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">AliceBlue</text>
   </g>
   <g
      id="g422"
@@ -1709,7 +1790,8 @@
        x="35.13253"
        y="1267.4379"
        fill="#000000"
-       id="text420">LightSteelBlue</text>
+       id="text420"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">LightSteelBlue</text>
   </g>
   <g
      id="g426"
@@ -1725,7 +1807,8 @@
        x="35.13253"
        y="1279.4379"
        fill="#000000"
-       id="text424">DodgerBlue</text>
+       id="text424"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">DodgerBlue</text>
   </g>
   <g
      id="g430"
@@ -1741,7 +1824,8 @@
        x="35.13253"
        y="1291.4379"
        fill="#000000"
-       id="text428">CornflowerBlue</text>
+       id="text428"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">CornflowerBlue</text>
   </g>
   <g
      id="g434"
@@ -1757,7 +1841,8 @@
        x="35.13253"
        y="1303.4379"
        fill="#000000"
-       id="text432">RoyalBlue</text>
+       id="text432"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">RoyalBlue</text>
   </g>
   <g
      id="g438"
@@ -1773,7 +1858,8 @@
        x="35.13253"
        y="1315.4379"
        fill="#000000"
-       id="text436">MidnightBlue</text>
+       id="text436"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">MidnightBlue</text>
   </g>
   <g
      id="g442"
@@ -1789,7 +1875,8 @@
        x="35.13253"
        y="1327.4379"
        fill="#000000"
-       id="text440">Lavender</text>
+       id="text440"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Lavender</text>
   </g>
   <g
      id="g446"
@@ -1805,7 +1892,8 @@
        x="35.13253"
        y="1339.4379"
        fill="#000000"
-       id="text444">Blue</text>
+       id="text444"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Blue</text>
   </g>
   <g
      id="g450"
@@ -1821,7 +1909,8 @@
        x="35.13253"
        y="1351.4379"
        fill="#000000"
-       id="text448">DarkBlue</text>
+       id="text448"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">DarkBlue</text>
   </g>
   <g
      id="g454"
@@ -1837,7 +1926,8 @@
        x="35.13253"
        y="1363.4379"
        fill="#000000"
-       id="text452">GhostWhite</text>
+       id="text452"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">GhostWhite</text>
   </g>
   <g
      id="g458"
@@ -1853,7 +1943,8 @@
        x="35.13253"
        y="1375.4379"
        fill="#000000"
-       id="text456">MediumBlue</text>
+       id="text456"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">MediumBlue</text>
   </g>
   <g
      id="g462"
@@ -1869,7 +1960,8 @@
        x="35.13253"
        y="1387.4379"
        fill="#000000"
-       id="text460">Navy</text>
+       id="text460"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Navy</text>
   </g>
   <g
      id="g466"
@@ -1885,7 +1977,8 @@
        x="35.13253"
        y="1399.4379"
        fill="#000000"
-       id="text464">DarkSlateBlue</text>
+       id="text464"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">DarkSlateBlue</text>
   </g>
   <g
      id="g470"
@@ -1901,7 +1994,8 @@
        x="35.13253"
        y="1411.4379"
        fill="#000000"
-       id="text468">SlateBlue</text>
+       id="text468"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">SlateBlue</text>
   </g>
   <g
      id="g474"
@@ -1917,7 +2011,8 @@
        x="35.13253"
        y="1423.4379"
        fill="#000000"
-       id="text472">MediumSlateBlue</text>
+       id="text472"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">MediumSlateBlue</text>
   </g>
   <g
      id="g478"
@@ -1933,7 +2028,8 @@
        x="35.13253"
        y="1435.4379"
        fill="#000000"
-       id="text476">MediumPurple</text>
+       id="text476"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">MediumPurple</text>
   </g>
   <g
      id="g482"
@@ -1949,7 +2045,8 @@
        x="35.13253"
        y="1447.4379"
        fill="#000000"
-       id="text480">BlueViolet</text>
+       id="text480"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">BlueViolet</text>
   </g>
   <g
      id="g486"
@@ -1965,7 +2062,8 @@
        x="35.13253"
        y="1459.4379"
        fill="#000000"
-       id="text484">Indigo</text>
+       id="text484"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Indigo</text>
   </g>
   <g
      id="g490"
@@ -1981,7 +2079,8 @@
        x="35.13253"
        y="1471.4379"
        fill="#000000"
-       id="text488">DarkOrchid</text>
+       id="text488"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">DarkOrchid</text>
   </g>
   <g
      id="g494"
@@ -1997,7 +2096,8 @@
        x="35.13253"
        y="1483.4379"
        fill="#000000"
-       id="text492">DarkViolet</text>
+       id="text492"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">DarkViolet</text>
   </g>
   <g
      id="g498"
@@ -2013,7 +2113,8 @@
        x="35.13253"
        y="1495.4379"
        fill="#000000"
-       id="text496">MediumOrchid</text>
+       id="text496"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">MediumOrchid</text>
   </g>
   <g
      id="g502"
@@ -2029,7 +2130,8 @@
        x="35.13253"
        y="1507.4379"
        fill="#000000"
-       id="text500">Thistle</text>
+       id="text500"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Thistle</text>
   </g>
   <g
      id="g506"
@@ -2045,7 +2147,8 @@
        x="35.13253"
        y="1519.4379"
        fill="#000000"
-       id="text504">Plum</text>
+       id="text504"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Plum</text>
   </g>
   <g
      id="g510"
@@ -2061,7 +2164,8 @@
        x="35.13253"
        y="1531.4379"
        fill="#000000"
-       id="text508">Violet</text>
+       id="text508"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Violet</text>
   </g>
   <g
      id="g514"
@@ -2077,7 +2181,8 @@
        x="35.13253"
        y="1543.4379"
        fill="#000000"
-       id="text512">Orchid</text>
+       id="text512"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Orchid</text>
   </g>
   <g
      id="g518"
@@ -2093,7 +2198,8 @@
        x="35.13253"
        y="1555.4379"
        fill="#000000"
-       id="text516">DarkMagenta</text>
+       id="text516"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">DarkMagenta</text>
   </g>
   <g
      id="g522"
@@ -2109,7 +2215,8 @@
        x="35.13253"
        y="1567.4379"
        fill="#000000"
-       id="text520">Fuchsia</text>
+       id="text520"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Fuchsia</text>
   </g>
   <g
      id="g526"
@@ -2125,7 +2232,8 @@
        x="35.13253"
        y="1579.4379"
        fill="#000000"
-       id="text524">Magenta</text>
+       id="text524"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Magenta</text>
   </g>
   <g
      id="g530"
@@ -2141,7 +2249,8 @@
        x="35.13253"
        y="1591.4379"
        fill="#000000"
-       id="text528">Purple</text>
+       id="text528"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Purple</text>
   </g>
   <g
      id="g534"
@@ -2157,7 +2266,8 @@
        x="35.13253"
        y="1603.4379"
        fill="#000000"
-       id="text532">MediumVioletRed</text>
+       id="text532"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">MediumVioletRed</text>
   </g>
   <g
      id="g538"
@@ -2173,7 +2283,8 @@
        x="35.13253"
        y="1615.4379"
        fill="#000000"
-       id="text536">DeepPink</text>
+       id="text536"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">DeepPink</text>
   </g>
   <g
      id="g542"
@@ -2189,7 +2300,8 @@
        x="35.13253"
        y="1627.4379"
        fill="#000000"
-       id="text540">HotPink</text>
+       id="text540"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">HotPink</text>
   </g>
   <g
      id="g546"
@@ -2205,7 +2317,8 @@
        x="35.13253"
        y="1639.4379"
        fill="#000000"
-       id="text544">PaleVioletRed</text>
+       id="text544"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">PaleVioletRed</text>
   </g>
   <g
      id="g550"
@@ -2221,7 +2334,8 @@
        x="35.13253"
        y="1651.4379"
        fill="#000000"
-       id="text548">LavenderBlush</text>
+       id="text548"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">LavenderBlush</text>
   </g>
   <g
      id="g554"
@@ -2237,7 +2351,8 @@
        x="35.13253"
        y="1663.4379"
        fill="#000000"
-       id="text552">Crimson</text>
+       id="text552"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Crimson</text>
   </g>
   <g
      id="g558"
@@ -2253,7 +2368,8 @@
        x="35.13253"
        y="1675.4379"
        fill="#000000"
-       id="text556">Pink</text>
+       id="text556"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Pink</text>
   </g>
   <g
      id="g562"
@@ -2269,6 +2385,7 @@
        x="35.13253"
        y="1687.4379"
        fill="#000000"
-       id="text560">LightPink</text>
+       id="text560"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:sans-serif;-inkscape-font-specification:sans-serif">LightPink</text>
   </g>
 </svg>
