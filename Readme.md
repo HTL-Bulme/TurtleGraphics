@@ -18,6 +18,9 @@ Turtle.ShowTurtle();
 
 # ![example](https://raw.githubusercontent.com/HTL-Bulme/TurtleGraphics/master/docs/Screenshot.png)
 
+## All Examples
+Comming Soon
+
 ## Provided Functionality
 
 ### Turtle.Forward
@@ -36,7 +39,7 @@ Puts the pen down again.
 Paints a dot at the current position with a given diameter.
 ### Turtle.SetColor 
 Sets the current color for fills or lines.
-Valid colors are listed here https://www.w3schools.com/tags/ref_colornames.asp
+Valid colors are listed here: [All Colors](https://raw.githubusercontent.com/HTL-Bulme/TurtleGraphics/refs/heads/master/docs/DotNetColorTable.svg)
 ### Turtle.SetPenWidth 
 Sets the current line width.
 ### Turtle.BeginFill 
